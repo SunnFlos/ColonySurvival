@@ -537,9 +537,37 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2342491690675110987, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2342491690675110987, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2342491690675110987, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2342491690675110987, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4447720361805787889, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4479767828216697416, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_margin.y
+      value: -55.52014
+      objectReference: {fileID: 0}
+    - target: {fileID: 4479767828216697416, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_fontStyle
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4479767828216697416, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
+      propertyPath: m_characterSpacing
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8253770263589533453, guid: 197e41f31628e8e45a25025d2b12b7d5, type: 3}
       propertyPath: m_Pivot.x
