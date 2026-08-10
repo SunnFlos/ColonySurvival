@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{465BBCD8-CDE3-1A7F-B357-AC75EB2BF65C}|ColonySurvival.Core.csproj|c:\\games development\\visual pinball\\colonysurvival\\assets\\scripts\\core\\data\\jsonconfigloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465BBCD8-CDE3-1A7F-B357-AC75EB2BF65C}|ColonySurvival.Core.csproj|solutionrelative:assets\\scripts\\core\\data\\jsonconfigloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|c:\\games development\\visual pinball\\colonysurvival\\assets\\scripts\\presentation\\colonygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\presentation\\colonygamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39709448-6DD2-FF9D-666D-F0F0629FB1E1}|ColonySurvival.Tests.csproj|c:\\games development\\visual pinball\\colonysurvival\\assets\\scripts\\tests\\simulationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39709448-6DD2-FF9D-666D-F0F0629FB1E1}|ColonySurvival.Tests.csproj|C:\\Games Development\\Visual Pinball\\ColonySurvival\\assets\\scripts\\tests\\simulationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39709448-6DD2-FF9D-666D-F0F0629FB1E1}|ColonySurvival.Tests.csproj|solutionrelative:assets\\scripts\\tests\\simulationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465BBCD8-CDE3-1A7F-B357-AC75EB2BF65C}|ColonySurvival.Core.csproj|C:\\Games Development\\Visual Pinball\\ColonySurvival\\assets\\scripts\\core\\data\\jsonconfigloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465BBCD8-CDE3-1A7F-B357-AC75EB2BF65C}|ColonySurvival.Core.csproj|solutionrelative:assets\\scripts\\core\\data\\jsonconfigloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{465BBCD8-CDE3-1A7F-B357-AC75EB2BF65C}|ColonySurvival.Core.csproj|C:\\Games Development\\Visual Pinball\\ColonySurvival\\assets\\scripts\\core\\colonysurvival.core.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ColonyGameManager.cs",
+              "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Presentation\\ColonyGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Presentation\\ColonyGameManager.cs",
+              "ToolTip": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Presentation\\ColonyGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Presentation\\ColonyGameManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T07:14:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "JsonConfigLoader.cs",
               "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Core\\Data\\JsonConfigLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Data\\JsonConfigLoader.cs",
@@ -50,8 +67,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Core\\Data\\JsonConfigLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T06:48:18.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T06:48:18.622Z"
             },
             {
               "$type": "Document",
@@ -61,14 +77,13 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Tests\\SimulationTests.cs",
               "ToolTip": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Tests\\SimulationTests.cs",
               "RelativeToolTip": "Assets\\Scripts\\Tests\\SimulationTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwEoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T06:25:45.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T06:25:45.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ColonySurvival.Core.asmref",
               "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Core\\ColonySurvival.Core.asmref",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ColonySurvival.Core.asmref",
@@ -79,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ColonySurvival.Core.asmdef",
               "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Core\\ColonySurvival.Core.asmdef",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\ColonySurvival.Core.asmdef",
@@ -91,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ColonySimulation.cs",
               "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Core\\Logic\\ColonySimulation.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Logic\\ColonySimulation.cs",
@@ -103,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PopulationData.cs",
               "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Data\\PopulationData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PopulationData.cs",
@@ -115,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ConsumptionData.cs",
               "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Data\\ConsumptionData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ConsumptionData.cs",
