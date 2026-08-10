@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|c:\\games development\\visual pinball\\colonysurvival\\assets\\scripts\\core\\logic\\colonysimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\logic\\colonysimulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|c:\\games development\\visual pinball\\colonysurvival\\assets\\scripts\\data\\populationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\populationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|C:\\Games Development\\Visual Pinball\\ColonySurvival\\assets\\scripts\\data\\consumptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1489A8-BFC6-414A-41BE-24ABDFEF561E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\consumptiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColonySimulation.cs",
+              "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Core\\Logic\\ColonySimulation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\Logic\\ColonySimulation.cs",
+              "ToolTip": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Core\\Logic\\ColonySimulation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\Logic\\ColonySimulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T06:02:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PopulationData.cs",
+              "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Data\\PopulationData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PopulationData.cs",
+              "ToolTip": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Data\\PopulationData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\PopulationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:57:42.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumptionData.cs",
+              "DocumentMoniker": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Data\\ConsumptionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\ConsumptionData.cs",
+              "ToolTip": "C:\\Games Development\\Visual Pinball\\ColonySurvival\\Assets\\Scripts\\Data\\ConsumptionData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\ConsumptionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T05:57:07.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
