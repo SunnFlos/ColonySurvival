@@ -63,5 +63,16 @@ namespace ColonySurvival.Tests
             Assert.AreEqual(0f, sim.FoodReserve, 0.001f);
             Assert.IsTrue(sim.IsStarving, "Starving state should be true when food reaches zero.");
         }
+        [Test]
+        public void JsonDeserialization_ParsesCorrectly()
+        {
+            string samplePopulationJson = "{\"villagerCount\":10,\"startingFood\":100.0,\"startingWater\":100.0}";
+            var data = UnityEngine.JsonUtility.FromJson<PopulationData>(samplePopulationJson);
+
+            Assert.AreEqual(10, data.villagerCount);
+            Assert.AreEqual(100f, data.startingFood);
+            Assert.AreEqual(100f, data.startingWater);
+        }
     }
+
 }
